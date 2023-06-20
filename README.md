@@ -1,17 +1,17 @@
 # EjercicioEntrevista
 
-##Installation:
+## Installation:
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run the following command to install the dependencies:
 npm install
 
-##Usage:
+## Usage:
 To start the development server, run the following command:
 npm start
 Open http://localhost:3000 in your browser to view the application.
 
-##Dependencies:
+## Dependencies:
 "@testing-library/jest-dom": "^5.16.5"
 "@testing-library/react": "^13.4.0"
 "@testing-library/user-event": "^13.5.0"
@@ -25,5 +25,6 @@ Open http://localhost:3000 in your browser to view the application.
 "react-scripts": "5.0.1"
 "typescript": "^4.9.5"
 "web-vitals": "^2.1.4"
-License
+
+## License
 This project is licensed under the MIT License.
