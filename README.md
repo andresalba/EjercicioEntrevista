@@ -27,4 +27,5 @@ Open http://localhost:3000 in your browser to view the application.
 "web-vitals": "^2.1.4"
 
 ## License
-This project is licensed under the MIT License.
+AAA
+Ask Andres Alba.
