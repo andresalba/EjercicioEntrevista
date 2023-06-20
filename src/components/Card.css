@@ -1,0 +1,35 @@
+.card {
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+    transition: 0.3s;
+    width: 100%;
+
+    display: flex;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 #ff3385;
+  }
+
+.info-main{
+    padding-right: 15px;
+}
+
+.info-variant{
+    width: 100%;
+    text-align: center;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
+}
+
+.price{
+    color: blue;
+    font-weight: bold;
+}
